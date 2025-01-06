@@ -1,3 +1,0 @@
-# Dominic-Mugala-Portfolio
-
-This is a personal portfolio website
